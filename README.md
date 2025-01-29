@@ -98,4 +98,4 @@ I love connecting with like-minded people! Feel free to reach out to me on any o
 </div>
 
 
-Let's build something amazing together! ✨
+Let's build something amazing together! ✨ **“Code the future. Build the change.”** ~ Subha
