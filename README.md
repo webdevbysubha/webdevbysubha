@@ -29,24 +29,13 @@
 I love connecting with like-minded people! Feel free to reach out to me on any of the platforms below:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/subha-mondal10" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
- <a href="https://www.youtube.com/@subhamondal3.0" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://github.com/webdevbysubha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:learncswithsubha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/subhamondal3.0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100055991414526" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%2340A6E3.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+<a href="https://www.linkedin.com/in/subha-mondal10"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@subhamondal3.0"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/webdevbysubha"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:learncswithsubha@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/subhamondal3.0"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100055991414526"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/webdevbysubha"><img src="https://cdn.simpleicons.org/x/ffffff" height="45"/></a>
 </p>
 
 ***
