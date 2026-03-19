@@ -87,16 +87,31 @@ I love connecting with like-minded people! Feel free to reach out to me on any o
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![Replit](https://img.shields.io/badge/-Replit-F26207?logo=replit&logoColor=white&style=flat-square)
 
-## My GitHub Stats
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webdevbysubha&show_icons=true&theme=tokyonight&hide_border=true" height="250px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevbysubha&theme=radical&hide_border=true" height="250px"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webdevbysubha&show_icons=true&theme=radical&hide_border=true" width="425"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevbysubha&theme=tokyonight&hide_border=true" width="450"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevbysubha&theme=nightowl&hide_border=true" width="40%" />
+</p> -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevbysubha&layout=compact&theme=radical&hide_border=true" width="450"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=120&section=header&text=⚡My%20GitHub%20Stats%20⚡&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webdevbysubha&show_icons=true&theme=tokyonight&hide_border=true" height="250px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevbysubha&theme=radical&hide_border=true" height="250px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevbysubha&theme=nightowl&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=4&section=header"/>
+</p>
 
 <div align="center">
 
@@ -104,4 +119,10 @@ I love connecting with like-minded people! Feel free to reach out to me on any o
 </div>
 
 
-Let's build something amazing together! ✨ **“Code the future. Build the change.”** ~ Subha
+<h3 align="center">
+  <span style="background: linear-gradient(90deg, #00F7FF, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    ✨ “Code the future. Build the change.” ✨
+  </span>
+</h3>
+
+<p align="center"><b>~ Subha</b></p>
