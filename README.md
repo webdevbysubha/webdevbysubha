@@ -1,4 +1,6 @@
-![Header Image](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)
+<p align="center">
+  <img src="https://miro.medium.com/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="Header Image" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Subha Mondal</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 <img align="right" alt="Coding" width="350" height="350" src="https://miro.medium.com/v2/resize:fit:1080/1*4dbx7TdGye8V_XYQm-C_GA.png">
