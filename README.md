@@ -1,8 +1,12 @@
 <p align="center">
   <img src="https://miro.medium.com/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="Header Image" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Subha Mondal</h1>
-<h3 align="center">A passionate Full-Stack Web developer from India</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Subha+Mondal;MERN+Stack+Enthusiast;Let's+Build+Something+Awesome" />
+</p>
+
+<h3 align="center">A Passionate Full-Stack Developer From India</h3>
 <img align="right" alt="Coding" width="350" height="350" src="https://miro.medium.com/v2/resize:fit:1080/1*4dbx7TdGye8V_XYQm-C_GA.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevbysubha&label=Profile%20views&color=0e75b6&style=flat" alt="webdevbysubha" /> </p>
 
